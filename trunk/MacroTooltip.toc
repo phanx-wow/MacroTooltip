@@ -1,0 +1,22 @@
+## Interface: 50400
+## Version: 5.4.8.1
+
+## Title: MacroTooltip
+## Notes: Adds tooltips with macro names and contents to the Blizzard Macro UI.
+## Notes-deDE: Fügt Tooltips von Makronamen und Macrotexte im Blizzard Makro-UI hinzu.
+## Notes-esES: Añade descripciones con los nombres y texto de macros en la interfaz de macros Blizzard.
+## Notes-esMX: Añade descripciones con los nombres y texto de macros en la interfaz de macros Blizzard.
+
+## Author: Phanx
+## X-Email: addons@phanx.net
+## X-Copyright: Copyright (c) 2014 Phanx. All rights reserved.
+## X-License: See the accompanying LICENSE file for details.
+## X-CompatibleLocales: deDE, enUS, esES, esMX, frFR, itIT, ptBR, koKR, ruRU, zhCN, zhTW
+## X-Website: http://www.wowinterface.com/downloads/info22720-MacroTooltip.html
+## X-Curse-Project-Name: macrotooltip
+## X-WoWI-ID: 22720
+
+## LoadOnDemand: 1
+## LoadWith: Blizzard_MacroUI
+
+Addon.lua
