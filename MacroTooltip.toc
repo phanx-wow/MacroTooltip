@@ -1,5 +1,5 @@
-## Interface: 50400
-## Version: 5.4.8.1
+## Interface: 60000
+## Version: 6.0.2.wowi:revision
 
 ## Title: MacroTooltip
 ## Notes: Adds tooltips with macro names and contents to the Blizzard Macro UI.
