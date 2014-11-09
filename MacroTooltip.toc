@@ -1,5 +1,5 @@
 ## Interface: 60000
-## Version: 6.0.2.wowi:revision
+## Version: 6.0.2.5
 
 ## Title: MacroTooltip
 ## Notes: Adds tooltips with macro names and contents to the Blizzard Macro UI.
@@ -10,11 +10,7 @@
 ## Author: Phanx
 ## X-Email: addons@phanx.net
 ## X-Copyright: Copyright (c) 2014 Phanx. All rights reserved.
-## X-License: See the accompanying LICENSE file for details.
-## X-CompatibleLocales: deDE, enUS, esES, esMX, frFR, itIT, ptBR, koKR, ruRU, zhCN, zhTW
-## X-Website: http://www.wowinterface.com/downloads/info22720-MacroTooltip.html
-## X-Curse-Project-Name: macrotooltip
-## X-WoWI-ID: 22720
+## X-Website: https://github.com/Phanx/MacroTooltip
 
 ## LoadOnDemand: 1
 ## LoadWith: Blizzard_MacroUI

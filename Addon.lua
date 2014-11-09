@@ -2,9 +2,9 @@
 	MacroTooltip
 	Adds tooltips to the Blizzard Macro UI.
 	Copyright (c) 2014 Phanx <addons@phanx.net>. All rights reserved.
-	See the accompanying README and LICENSE files for more information.
 	http://www.wowinterface.com/downloads/info22720-MacroTooltip.html
 	http://www.curse.com/addons/wow/macrotooltip
+	https://github.com/Phanx/MacroTooltip
 ----------------------------------------------------------------------]]
 
 local function ShowMacroTooltip(self)
