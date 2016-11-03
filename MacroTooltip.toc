@@ -1,4 +1,4 @@
-## Interface: 70000
+## Interface: 70100
 ## Version: @project-version@
 
 ## Title: MacroTooltip
@@ -10,9 +10,8 @@
 ## Author: Phanx
 ## X-Email: addons@phanx.net
 ## X-Copyright: Copyright (c) 2014-2016 Phanx. All rights reserved.
-## X-Website: https://github.com/Phanx/MacroTooltip
-
-## LoadOnDemand: 1
-## LoadWith: Blizzard_MacroUI
+## X-Website: https://github.com/phanx-wow/MacroTooltip
+## X-Curse-Project-ID: macrotooltip
+## X-WoWI-ID: 22720
 
 Addon.lua

@@ -1,3 +1,8 @@
+### Version 7.1.0.0
+
+* Update for WoW 7.1
+* Added support for the MacroToolkit addon
+
 ### Version 7.0.3.0
 
 * Update for WoW 7.0
